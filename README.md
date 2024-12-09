@@ -1,1 +1,1 @@
-Repositorio de los challenges de CryptoHack.
+Repositorio de los desafíos de CryptoHack.
