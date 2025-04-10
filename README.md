@@ -34,6 +34,20 @@
   - [x] SSH Keys
   - [x] Transparency
 
+### [Symmetric Ciphers](Challenges/Symmetric Ciphers.ipynb)
+- How AES Works
+  - [x] Keyed Permutations
+  - [x] Resisting Bruteforce
+  - [x] Structure of AES
+  - [x] Round Keys
+  - [x] Confusion through Substitution
+  - [x] Diffusion through Permutation
+  - [x] Bringing It All Together
+
+- Symmetric Starter
+  - [x] Modes of Operation Starter
+  - [x] Passwords as Keys
+
 ### [Diffie-Hellman](Challenges/Diffie_Hellman.ipynb)
 - Starter
   - [x] Working with Fields
