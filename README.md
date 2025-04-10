@@ -34,7 +34,7 @@
   - [x] SSH Keys
   - [x] Transparency
 
-### [Symmetric Ciphers](Challenges/Symmetric Ciphers.ipynb)
+### [Symmetric Ciphers](Challenges/Symmetric_Ciphers.ipynb)
 - How AES Works
   - [x] Keyed Permutations
   - [x] Resisting Bruteforce
