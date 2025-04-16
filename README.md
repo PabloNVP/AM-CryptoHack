@@ -48,6 +48,18 @@
   - [x] Modes of Operation Starter
   - [x] Passwords as Keys
 
+### [Mathematics](Challenges/Mathematics.ipynb)
+- Modular Math
+  - [x] Quadratic Residues
+  - [x] Legendre Symbol
+  - [x] Modular Square Root
+  - [x] Chinese Remainder Theorem
+
+- Brainteasers Part 1
+  - [x] Successive Powers
+  - [x] Adrien's Signs
+  - [x] Modular Binomials
+
 ### [Diffie-Hellman](Challenges/Diffie_Hellman.ipynb)
 - Starter
   - [x] Working with Fields
