@@ -60,6 +60,9 @@
   - [x] Adrien's Signs
   - [x] Modular Binomials
 
+- Block Ciphers 1
+  - [x] ECB CBC WTF
+
 ### [Diffie-Hellman](Challenges/Diffie_Hellman.ipynb)
 - Starter
   - [x] Working with Fields
