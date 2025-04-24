@@ -70,3 +70,7 @@
 
 - Man In The Middle
   - [x] Parameter Injection
+        
+### [Hash Functions](Challenges/Hash_Functions.ipynb)
+- Probability
+  - [x] Jack's Birthday Hash
