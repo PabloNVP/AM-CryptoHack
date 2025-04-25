@@ -74,3 +74,4 @@
 ### [Hash Functions](Challenges/Hash_Functions.ipynb)
 - Probability
   - [x] Jack's Birthday Hash
+  - [x] Jack's Birthday Confusion
