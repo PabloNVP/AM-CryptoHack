@@ -75,3 +75,6 @@
 - Probability
   - [x] Jack's Birthday Hash
   - [x] Jack's Birthday Confusion
+### [Crypto on the Web](Challenges/Crypto_on_the_Web.ipynb)
+- JSON Web Tokens
+  - [x] Token Appreciation
