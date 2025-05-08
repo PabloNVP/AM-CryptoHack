@@ -78,3 +78,4 @@
 ### [Crypto on the Web](Challenges/Crypto_on_the_Web.ipynb)
 - JSON Web Tokens
   - [x] Token Appreciation
+  - [x] JWT Sessions
