@@ -79,3 +79,4 @@
 - JSON Web Tokens
   - [x] Token Appreciation
   - [x] JWT Sessions
+  - [x] No Way JOSE
