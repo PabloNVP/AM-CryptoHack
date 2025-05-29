@@ -80,3 +80,4 @@
   - [x] Token Appreciation
   - [x] JWT Sessions
   - [x] No Way JOSE
+  - [x] JWT Secrets
